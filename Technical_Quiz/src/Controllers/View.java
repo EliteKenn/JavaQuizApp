@@ -17,7 +17,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author GENISYS-X
+ * @author EliteKenn
  */
 public class View implements Initializable{
 
