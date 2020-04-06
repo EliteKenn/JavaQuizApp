@@ -22,7 +22,7 @@ import javafx.util.Duration;
 
 /**
  *
- * @author GENISYS-X
+ * @author EliteKenn
  */
 public class Model implements Initializable {
 
