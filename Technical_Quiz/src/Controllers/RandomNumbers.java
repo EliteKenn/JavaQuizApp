@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  *
- * @author GENISYS-X
+ * @author EliteKenn
  */
 public final class RandomNumbers {
   
