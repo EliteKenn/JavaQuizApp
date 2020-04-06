@@ -2,7 +2,7 @@ package JavaQuiz;
 
 /**
  *
- * @author GENISYS-X
+ * @author EliteKenn
  */
 public class answer {
 
