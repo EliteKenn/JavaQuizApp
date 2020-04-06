@@ -24,7 +24,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author GENISYS-X
+ * @author EliteKenn
  */
 public class JavaQuizController implements Initializable{
 
