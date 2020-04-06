@@ -9,7 +9,7 @@ import javafx.scene.Scene;
 
 /**
  *
- * @author GENISYS-X
+ * @author EliteKenn
  */
 public class Main extends Application {
 	
